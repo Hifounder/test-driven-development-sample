@@ -1,2 +1,5 @@
+# js
 node_modules
 coverage
+# py
+__pycache__
