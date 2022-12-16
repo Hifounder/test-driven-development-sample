@@ -1,6 +1,6 @@
 export class Money {
   public amount: number;
-  private currency: string;
+  public currency: string;
 
   constructor(amount: number, currency: string) {
     this.amount = amount;
